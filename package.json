@@ -1,0 +1,15 @@
+{
+  "name": "gokrishnakotu-dist",
+  "version": "1.0.0",
+  "description": "This is about Krishna kotu",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Krishna Kotu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
